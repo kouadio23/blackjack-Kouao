@@ -7,7 +7,7 @@ House rules:  The dealer hits on a total of 16 or less
 and stands on a total of 17 or more.  Dealer wins ties.
 A new deck of cards is used for each game.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=3S1N5534_t8)
 
 # Development Environment
 

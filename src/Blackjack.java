@@ -10,8 +10,11 @@ public class Blackjack {
         int money;          // Amount of money the user has.
         int bet;            // Amount user bets on a game.
         boolean userWins;   // Did the user win the game?
+        TextIO.putln("Welcome to the game of Las Vegas Kouao blackjack.");
 
-        TextIO.putln("Welcome to the game of blackjack.");
+        TextIO.putln("House rules:  The dealer hits on a total of 16 or less\n" +
+                "and stands on a total of 17 or more.  Dealer wins ties.\n" +
+                "A new deck of cards is used for each game.");
         TextIO.putln();
 
         money = 100;  // User starts with $100.
@@ -135,8 +138,7 @@ public class Blackjack {
                 TextIO.putln("User hits.");
                 TextIO.putln("Your card is the " + newCard);
                 TextIO.putln("Your total is now " + userHand.getBlackjackValue());
-                if (userHand.getBlackjackValue() > 21) {
-                    TextIO.putln();
+                if (userHand.getBlackjackValue() > 21) {                    TextIO.putln();
                     TextIO.putln("You busted by going over 21.  You lose.");
                     TextIO.putln("Dealer's other card was the "
                             + dealerHand.getCard(1));
