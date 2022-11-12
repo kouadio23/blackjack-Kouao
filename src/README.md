@@ -11,9 +11,11 @@ A new deck of cards is used for each game.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* IntelliJ (free community version) / I just want to know how to use different IDE
+* Java
+* Git / Github
+* Youtube
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
