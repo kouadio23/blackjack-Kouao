@@ -13,8 +13,8 @@ public class Blackjack {
         TextIO.putln("Welcome to the game of Las Vegas Kouao blackjack.");
 
         TextIO.putln("House rules:  The dealer hits on a total of 16 or less\n" +
-                "and stands on a total of 17 or more.  Dealer wins ties.\n" +
-                "A new deck of cards is used for each game.");
+                        "and stands on a total of 17 or more.  Dealer wins ties.\n" +
+                        "A new deck of cards is used for each game.");
         TextIO.putln();
 
         money = 100;  // User starts with $100.
