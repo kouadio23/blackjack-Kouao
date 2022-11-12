@@ -27,6 +27,5 @@ A new deck of cards is used for each game.
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Modify my program to demonstrate inheritance using the extends and abstract keywords.
+* Modify my program to create an interface and then use it with the implements keyword.
