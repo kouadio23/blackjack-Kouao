@@ -19,8 +19,9 @@ A new deck of cards is used for each game.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Sololearn](https://www.sololearn.com/learning/1051)
+* [W3school](https://www.w3schools.com/cpp/)
+* [Programiz](https://www.programiz.com/cpp-programming)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
